@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fcommunity\u002F[postId]","\u002Fguidebook\u002F[chapterId]","\u002Flifehacks\u002F[hackId]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

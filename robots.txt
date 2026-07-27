@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /mypage/
+Disallow: /bookmarks/
+Disallow: /search?*
+
+Sitemap: https://japanhacks.github.io/sitemap.xml
